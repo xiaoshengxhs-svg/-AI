@@ -1,0 +1,5 @@
+{
+  "name": "CleanLens AI - 智能去水印",
+  "description": "基于 Google Gemini 模型的智能图片去水印工具，一键清除照片中的水印、文字和杂物。",
+  "requestFramePermissions": []
+}
